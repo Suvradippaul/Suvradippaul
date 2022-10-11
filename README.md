@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [https://suvradippaul.hashnode.dev/](https://suvradippaul.hashnode.dev/)
+- 📝 I write articles on [https://suvradippaul.hashnode.dev/](https://suvradippaul.hashnode.dev/)
 
 - ⚡ Fun fact **Think twice before doing a commit.**
 
