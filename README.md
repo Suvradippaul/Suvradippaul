@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suvradipp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suvradipp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suvradip-paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvradip-paul" height="30" width="40" /></a>
-<a href="https://hashnode.com/@suvradippaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@suvradippaul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suvradippaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suvradippaul" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/suvradip2000/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suvradip2000/profile" height="30" width="40" /></a>
+<a href="https://twitter.com/suvradipp" target="blank"> <img align="center" src="https://github.com/Suvradippaul/Assets/blob/main/twitter.svg" width="40" height="40"> </a>
+<a href="https://linkedin.com/in/suvradip-paul" target="blank"> <img align="center" src="https://github.com/Suvradippaul/Assets/blob/main/linkedin.svg" width="40" height="40"> </a>
+<a href="https://hashnode.com/@suvradippaul" target="blank"> <img align="center" src="https://github.com/Suvradippaul/Assets/blob/main/hashnode-icon.png" width="40" height="40"> </a>
+<a href="https://www.leetcode.com/suvradippaul" target="blank"> <img align="center" src="https://github.com/Suvradippaul/Assets/blob/main/new%20leetcode.png" width="40" height="40"> </a>
+<a href="https://auth.geeksforgeeks.org/user/suvradip2000/profile" target="blank"> <img align="center" src="https://github.com/Suvradippaul/Assets/blob/main/icons8-geeksforgeeks.svg" width="40" height="40"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
