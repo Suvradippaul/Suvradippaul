@@ -30,4 +30,6 @@
 
 [![Suvradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suvradippaul&hide=stars&show_icons=true&theme=algolia)](https://github.com/Suvradippaul/Suvradippaul)
 
+[![Suvradip Paul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Suvradippaul&theme=react-dark)](https://github.com/Suvradippaul/)
+
 [![@suvradippaul's Holopin board](https://holopin.me/suvradippaul)](https://holopin.io/@suvradippaul)
