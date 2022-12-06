@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=suvradippaul&label=Profile%20views&color=0e75b6&style=flat" alt="suvradippaul" />
 </p>
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React** -->
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
